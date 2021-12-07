@@ -13,7 +13,7 @@
 ## __*Para Listas*__ 
 - [x] Lista Numerada `N+.`
 - [x] Lista Demarcada `* ou -`
-- [x] Lista de tarefas `- [ ]/- [x]`
+- [x] Lista de Tarefas `- [ ]/- [x]`
 ---
 
 ## __*Tabela*__
