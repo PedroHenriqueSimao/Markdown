@@ -22,4 +22,11 @@
 Assunto 1 | Assunto 2 | Assunto 3
 --- | --- | ---
 Assunto 1 | Assunto 2 | assunto 3
+
+
+```
+Assunto 1 | Assunto 2 | Assunto 3
+--- | --- | ---
+Assunto 1 | Assunto 2 | assunto 3
+```
 ---
